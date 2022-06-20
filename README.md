@@ -7,7 +7,7 @@ Liels uzsvars kvalifikācijas darbā tiks likts uz to, lai lietotājam būtu pē
 Interneta veikali pasaulē pastāv jau gadu desmitus, kas dod iespēju cilvēkiem iepirkties daudz vienkāršāk, ātrāk un ērtāk. Pasūtīt preci ir iespējams jebkur, kur ir interneta pieslēgums, norēķinoties ar internetbankas starpniecību vai skaidrā naudā saņemot preci un pašam nav jāapmeklē konkrēts veikals. Klients var iegādāties preci, kura tiek piegādāta konkrētā vietā, vai arī to ir iespējams saņemt birojā, Jums ērtā laikā. Šo komercdarbību aizsāka jau sen, taču interneta veikalu paveidu ir daudz, tāpēc interneta veikali joprojām top arvien vairāk un vairāk. 
 
 # Izmantotas tehnologijas
-*HTML
+//HTML
 *CSS
 *PHP
 *JS
