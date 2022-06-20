@@ -18,8 +18,6 @@ Liels uzsvars kvalifikācijas darbā tiks likts uz to, lai lietotājam būtu pē
 
 # Pielikumi
 
-Saite uz GitHub ar programmas kodu – https://github.com/NikitaDuma/NikitaDuma.github.io 
-
 JavaScript  – https://www.w3schools.com/js 
 
 CSS - https://www.w3schools.com/css/default.asp 
